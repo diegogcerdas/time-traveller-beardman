@@ -1,7 +1,7 @@
 # time-traveller-beardman
 Time-traveller Beardman: An endless-runner game developed for the undergraduate course "Introduction to HCI" at Radboud University.
 
-![start](https://github.com/diegogcerdas/time-traveller-beardman/tree/master/build/data/Screenshots/beardman_1.png)
+![start](/build/data/Screenshots/beardman_1.png)
 
 Authors: Diego Garcia Cerdas, Maksymilian Kulicki (maxkulicki), and Giorgia Corrado (GiorgiaC9).
 
